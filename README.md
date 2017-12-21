@@ -1,6 +1,9 @@
 # QuickCrop
 
-A simple GUI application to quickly and manually crop large number of images
+A simple GUI application to quickly and manually crop large number of images.
+
+Choose a directory with many images, set crop area position and size and cycle
+through images while saving cropped images.
 
 ## Controls
 
